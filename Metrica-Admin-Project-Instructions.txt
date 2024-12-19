@@ -1,0 +1,229 @@
+16 Dec:
+Metrica Django Project:
+Website URL's
+- http://127.0.0.1:8000/admin # For Admin Editing or Adding the functiionalities
+- http://127.0.0.1:8000/
+- http://127.0.0.1:8000/apps/projects-users
+
+
+Users.html page - BACKEND-Table Name:
+===================================
+
+Instellation & Setting up the Django Template on Local PC:
+- VS C++ - Desktop setup is requireed.
+GitHub - SSH Key for the Jidox Project:
+Generating public/private ed25519 key pair.
+Enter file in which to save the key (C:\Users\VRaju/.ssh/id_ed25519):
+Created directory 'C:\\Users\\VRaju/.ssh'.
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again: 
+Your identification has been saved in C:\Users\VRaju/.ssh/id_ed25519
+Your public key has been saved in C:\Users\VRaju/.ssh/id_ed25519.pub
+The key fingerprint is:
+SHA256:fQq0/4BWLt79FJhxfEszYr7EksBz8WKORpQDWnbKwMw support@techoffice.ca
+WorkLaptopKey:
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJRRppDksnldhSEEj8fP9+yMSNE3Zkf0PGcf5PXZQ1BY support@techoffice.ca
+
+To Clone - git remote set-url origin git@github.com:username/repository.git
+
+
+- To Create Virtual Environment - "python -m venv venv"
+venv\Scripts\activate
+pip install -r requirements.txt
+python manage.py migrate --fake
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py runserver
+python manage.py dbshell # For opening sqlite on command prompt
+
+
+Ensure Microsoft Build Tools Are Set Up - Install the latest Microsoft C++ Build Tools
+MSVC v142 - VS 2019 C++ x64/x86 build tools
+Windows 10 SDK
+
+Download sqlite3 - sqlite-tools(Precompiled Binaries for Windows)
+
+node server.js
+python manage.py runserver
+
+----------------
+
+----------------
+
+Metrica Django Project Folder Structure:
+==========================
+Metrica Django Project Folder structure
+C:\Users\VRaju\Metrica>  
+    │     
+    ├───authentication/
+    │      ├───__pychache__/
+    │      ├───migrations/
+    │      ├───__init__.py
+    │      ├───admin.py
+    │      ├───apps.py
+    │      ├───models.py
+    │      ├───tests.py
+    │      ├───urls.py
+    │      └───views.py
+    │
+    ├───config
+    │      │  
+    │      ├───__pychache__/
+    │      │
+    │      ├───settings/
+    │      │      ├───__pycache__/
+    │      │      ├───base.py
+    │      │      ├───local.py
+    │      │      ├───production.py
+    │      │      └───test.py
+    │      │
+    │      ├───asgi.py
+    │      ├───urls.py
+    │      └───wsgi.py
+    │
+    ├───metrica
+    │      │  
+    │      ├───__pychache__/
+    │      │
+    │      ├───apps/
+    │      │
+    │      ├───contrib/ 
+    │      ├───dashboard/
+    │      ├───pages/
+    │      ├───static/
+    │      │      ├───css/
+    │      │      ├───fonts/
+    │      │      ├───images/
+    │      │      │     ├───dashboards/
+    │      │      │     ├───flags/
+    │      │      │     ├───logos/
+    │      │      │     ├───products/
+    │      │      │     ├───small/
+    │      │      │     └───users/
+    │      │      ├───js/
+    │      │      ├───libs/
+    │      │      └───source
+    │      │              ├───fonts/
+    │      │              ├───images/
+    │      │              ├───js/
+    │      │              └───scss
+    │      │ 
+    │      ├───templates/
+    │      │      ├───account/
+    │      │      │       ├───account_inactive.html
+    │      │      │       ├───base.html
+    │      │      │       ├───email_confirm.html
+    │      │      │       ├───email.html
+    │      │      │       ├───login.html
+    │      │      │       ├───logout.html
+    │      │      │       ├───(Other html files,..)
+    │      │      │
+    │      │      ├───apps/
+    │      │      │       ├───analytics/
+    │      │      │       ├───crm/
+    │      │      │       ├───crypto/
+    │      │      │       ├───ecommerece/
+    │      │      │       ├───helpdesk/
+    │      │      │       ├───hospital/
+    │      │      │       ├───projects/
+    │      │      │       │        ├───chat.html
+    │      │      │       │        ├───client.html
+    │      │      │       │        ├───create.html
+    │      │      │       │        ├───kanbanboard.html
+    │      │      │       │        ├───project.html
+    │      │      │       │        ├───task.html
+    │      │      │       │        ├───team.html
+    │      │      │       │        └───users.html   
+    │      │      │       ├───calendar.html
+    │      │      │       ├───chat.html
+    │      │      │       ├───contact-list.html
+    │      │      │       └───invoice.html
+    │      │      ├───dashboard
+    │      │      ├───pages
+    │      │      ├───partials
+    │      │      ├───uikit
+    │      │      ├───base.html
+    │      │      └───vertical_base.html
+    │      │ 
+    │      ├───uikit/
+    │      ├───users/
+    │      │      │  
+    │      │      ├───__pychache__/
+    │      │      ├───management/ 
+    │      │      │       └─── commands/ 
+    │      │      │                 └─── import_users.py
+    │      │      ├───migrations/ 
+    │      │      ├───__init__.py
+    │      │      ├───adapters.py
+    │      │      ├───admin.py
+    │      │      ├───apps.py
+    │      │      ├───forms.py
+    │      │      ├───models.py
+    │      │      ├───tests.py
+    │      │      ├───urls.py
+    │      │      └─── views.py
+    │      ├───utils/
+    │      └─── __init__.py
+    ├───node_modules
+    │      │  
+    │      ├───.bin/
+    │      ├───@babel/ 
+    │      ├───@choojs/
+    │      ├───@gar/
+    │      ├───@gulp-sourcemaps/
+    │      ├───@midzer/
+    │      ├───@nodelib/
+    │      ├───@npmcli/
+    │      ├───@popperjs
+    │      ├─── Other files/folders (Contineus)
+    │  
+    ├───venv
+    │      ├───Include/
+    │      ├───Lib/
+    │      ├───Scripts/
+    │      ├───.gitignore
+    │      └───pyvenv.cfg
+    │
+    ├───.gitignore
+    │  
+    ├───bun.lockb
+    │  
+    ├───dbsqlite3
+    │
+    ├───gulpfile.js
+    │
+    ├───manage.py
+    │  
+    ├───package-lock.json
+    │ 
+    ├───package.json
+    │
+    └───requirements.txt
+===========================================
+
+sqlite> PRAGMA table_info(users_user);
+
+- full_name, phone_no, alt_no, company, service_type, location, user_name, port_no, rdp_password, node, internal_ip, email, email_password, pb_id, pb_password, branch, ext_no, notes, user_creation_date, status.
+============================================
+
+Transportation Sample Template:
+- https://mannatstudio.com/html/logzee/v3/index-4.html
+- https://preview.themeforest.net/item/towy-emergency-auto-towing-and-roadside-assistance-service-html-template-with-builder/full_screen_preview/19596606
+- https://mannatstudio.com/html/logzee/v3/index-3.html
+
+
+---------------------
+bash
+sqlite3 db.sqlite3
+
+sql
+PRAGMA table_info(users_user);
+
+sql
+ALTER TABLE users_user ADD COLUMN full_name TEXT;
+
+sql
+.exit
+
+
+

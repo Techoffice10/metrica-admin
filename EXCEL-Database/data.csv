@@ -1,0 +1,221 @@
+id,user_name,company,full_name,phone_no,email,node,branch,ext_no,port_ip,password,power_broker_id,applied_rating_id,user_creation_date,suspended_date,status
+1,dig\\SSIDHU,Diamond Insurance,Simar Sidhu,4167685460,ssidhu@dig.insure,C1node1,4,101,158.106.94.204:3392,Ss1dhu123$,S6,S6121,2024-11-22,,Active
+2,dig\\ASIDHU,Diamond Insurance,Aman Sidhu,6473824606,asidhu@dig.insure,C1node2,4,106,158.106.94.204:3393,A@idhu123$,A3,A3490,2024-11-22,,Active
+3,dig\\MSIDHU,Diamond Insurance,Mohinderpal Sidhu,6474060285,msidhu@dig.insure,C1node3,4,108,158.106.94.204:3394,M@idhu133$,M4,M4124,2024-11-22,,Active
+4,dig\\RGREWAL,Diamond Insurance,Ravi Grewal,4168185386,ravigrewal@dig.insure,C1node4,4,103,158.106.94.204:3395,R@rewal113$,RG,RG1443,2024-11-22,,Active
+5,dig\\AALAM,Diamond Insurance,Asif Alam,6476695051,aalam@dig.insure,C1node5,4,102,158.106.94.204:3396,A@lam123$,A2,A2231,2024-11-22,,Active
+6,dig\\SVASISHTA  ,Diamond Insurance,Shruti Vasishta,4165561717                                        ,svasishta@dig.insure,C1node6,4,107,158.106.94.204:3397,Sv@sishta123$,S5,S53441,2024-11-22,,Active
+7,dig\\DBUTTAR,Diamond Insurance,Dupinderpal Buttar,9058678434,dbuttar@dig.insure,C1node7,4,104,158.106.94.204:3398,Dbutt@r123$,D2,D2894,2024-11-22,,Active
+8,dig\\GDHINDSA,Diamond Insurance,Gurkarmsher Dhindsa,4168764605,gdhindsa@dig.insure,C1node8,4,105,158.106.94.204:3399,Gdhinds@133$,G3,G3986,2024-11-22,,Active
+9,dig\\BGANDHI,Diamond Insurance,Bela Gandhi,6478089219,Bgandhi@dig.insure,C1node9,4,,158.106.94.204:3400,Bg@ndhi123$,B4,B0446,2024-11-22,,Active
+10,dig\\VGANDHI,Diamond Insurance,Viren Gandhi  ,6474079219,Vgandhi@dig.insure,C1node10,4,,158.106.94.204:3401,Vg@ndhi144$,VG,VG2143,2024-11-22,,Active
+11,dig\\Sunnysidhu,Diamond Insurance,Sunny Sidhu,416-728-9394                  ,sunnysidhu@dig.insure,C1node13,4,,158.106.94.204:3406,S@nny12(($,S1,SS3392,2024-11-22,,Active
+12,dig\\Brian,Diamond Insurance,Brian Crasta,6476384445,Brian@dig.insure ,C1Node15,4,,158.106.94.204:3408,Bri@n((221,BC,BC5562,2024-11-22,,Active
+13,dig\\anaeem,Diamond Insurance,Ayesha Naeem,647-539-0717,anaeem@dig.insure,C1Node16,4,,158.106.94.204:3409,An@eem332,AN,AN3365,2024-11-22,,Active
+14,dig\\anaeem,Diamond Insurance,Simran Simran,,ssimran@dig.insure,C1Node16,4,,158.106.94.204:3409,An@eem332,S7,SS1998,2024-11-22,,Active
+15,dig\\Rrajput,Diamond Insurance,Ritika Rajput,4168202624,Rrajput@dig.insure,C1node6,4,,158.106.94.204:3397,Sv@sishta123$,R1,R2261,2024-11-22,,Active
+16,dig\\Mkamboj,Diamond Insurance,Manjinder Kamboj,647-867-3926,mkamboj@dig.insure,C1node17,4,,158.106.94.204:3410,M@kam0090$$,MK,MK2241,2024-11-22,,Active
+17,dig\\rbuttar,Diamond Insurance,Rupinderpal Bhuttar,6472741502,rbuttar@dig.insure,C1node19,4,,158.106.94.204:3412,Rb@tt$$1244,R7,RB3445,2024-11-22,,Active
+18,DIG\\AGREWAL,Diamond Insurance,AMRITPAL SINGH GREWAL,9059815025,AGREWAL@DIG.INSURE,C1node18,4,,cloud.techoffice.ca:3411,Amrit@1#$,AG,AG0912,2024-11-22,,Active
+19,dig\\smann,Diamond Insurance,Sandeep Kaur Mann,2269738770,Smann@dig.insure,C1node20,4,,158.106.94.204:3413,dig123@,SM,SM0254,2024-11-22,,Active
+20,dig\\dsingh,Diamond Insurance,DHARAMPAL SINGH,4375229544,dsingh@dig.insure,C1Node23,4,,158.106.94.204:3416,Dh@r3344,DS,P,2024-11-22,,Active
+21,dig\\rmalhi,Diamond Insurance,Ramanpreet Kaur Malhi,6479642794 / 7809522794(new),rmalhi@dig.insure,C1node24,4,,158.106.94.204:3417,Rm@lh!321,RM,RM2794,2024-11-22,,Active
+22,dig\\mdhillon,Diamond Insurance,Mandeep Dhillon,647-272-1618,Mdhillon@dig.insure,C1node26,4,,158.106.94.204:3418,Mdh!!L0n1618,M2,M21618,2024-11-22,,Active
+23,dig\\RGREWAL1,Diamond Insurance,Raman Grewal,6472898030,rgrewal@dig.insure,C1node30,4,,158.106.94.204:3422,R@m@n!123,R9,RG712,2024-11-22,,Active
+24,dig\\schahal,Diamond Insurance,Sukhdeep Chahal,6477083578 / 4167051155,Schahal@dig.insure,C1node27,4,,158.106.94.204:3419,S@chah@!32,SC,SC7821,2024-11-22,,Active
+25,dig\\mahmad,Diamond Insurance,Moeen Ahmad,6476201173,Mahmad@dig.insure,C1Node28,4,,158.106.94.204:3420,M@hm@d!73,MA,MA1173,2024-11-22,,Active
+26,dig\\mkhroud,Diamond Insurance,Mandeep Khroud,6476203637,mkhroud@dig.insure,C1node36,4,,158.106.94.204:3428,Mkhr@ud!23,M7,MM3637,2024-11-22,,Active
+27,dig\\account1,Diamond Insurance,Account1,"4166691694, 4374259318",info@lekhi.ca,C1node31,4,,158.106.94.204:3423,Acc0unt!$,C1,CA2251,2024-11-22,,Active
+28,dig\\account2,Diamond Insurance,Account2,"6479872191, 4166691694",info@lekhi.ca,C1node32,4,,158.106.94.204:3424,Acc0unt!&,C2,CA2252,2024-11-22,,Active
+29,dig\\lgrewal,Diamond Insurance,Lajwinder Grewal,6476783753,lgrewal@dig.insure,C1node33,4,,158.106.94.204:3425,L@jgw@@!,LG,LG3333,2024-11-22,,Active
+30,dig\\averma,Diamond Insurance,Amita Verma,6478674458,averma@dig.insure,C1node34,4,,158.106.94.204:3426,Averm@12#$,AV,AV3434,2024-11-22,,Active
+31,dig\\hthind,Diamond Insurance,Harman Thind,6478650397,hthind@dig.insure,C1node35,4,,158.106.94.204:3427,H@tH!nd12,HT,HT3535,2024-11-22,,Active
+32,dig\\Ngrewal,Diamond Insurance,Navneet Kaur Grewal,2269713639,Navneet@dig.insure,C1Node28,4,,158.106.94.204:3420,N@vnEEt@2341,NV,NV2341,2024-11-22,,Active
+33,dig\\bmaan,Diamond Insurance,Beant Kaur Maan,6473254942,Bmaan@dig.insure,C1node17,4,,158.106.94.204:3410,Be@nt@121,BM,BM4942,2024-11-22,,Active
+34,dig\\kthakkar,Diamond Insurance,Krishna Thakkar,4377764647,kthakkar@dig.insure,C1node37,4,,158.106.94.204:3429,Kth@kk@r123,KT,KT1212,2024-11-22,,Active
+35,dig\\gbhullar,Diamond Insurance,Gagandeep Kaur Bhullar,6477028900,gbhullar@dig.insure,C1node39,4,,158.106.94.204:3431,Gbhull@r123,G8,GB8900,2024-11-22,,Active
+36,dig\\ahazra,Diamond Insurance,Amandeep Hazra,647-675-6690,ahazra@dig.insure,C1Node40,4,,158.106.94.204:3432,Ah@z@ra!,AH,AH6690,2024-11-22,,Active
+37,dig\\pgill,Diamond Insurance,Pawandeep Gill,6476086965,pgill@dig.insure,C1NODE41,4,,158.106.94.204:3433,P@w@ndEEp!,PG,PG6965,2024-11-22,,Active
+38,dig\\ahazra,Diamond Insurance,Amandeep Hazra,647-675-6690,ahazra@dig.insure,C1node40-new,4,,158.106.94.204:34321,Ah@z@ra!,,,2024-11-22,,Active
+39,dig\\htoor,Diamond Insurance,Harsirat Toor,4377766994,htoor@dig.insure,C1NODE42,4,,158.106.94.204:3434,H@rs!r@t123,H4,HT6994,2024-11-22,,Active
+40,dig\\msaini,Diamond Insurance,Manpreet Saini,6472744643,msaini@dig.insure,C1NODE43,4,,158.106.94.204:3435,M@nprEEt123$,M9,MS4643,2024-11-22,,Active
+41,dig\\jasmeet,Diamond Insurance,Jasmeet Singh,6479996040,jas@dig.insure,C1Node32,4,,158.106.94.204:3424,J@smEet213%,JJ,JJ6040,2024-11-22,,Active
+42,dig\\hmahmood,Diamond Insurance,Hamza Mahmood,6472931989,hmahmood@dig.insure,C1Node28,4,,158.106.94.204:3420,HM@hm00d89%,HM,HM1989,2024-11-22,,Active
+43,dig\\ksharma,Diamond Insurance,Khushi Sharma,6474088736,ksharma@dig.insure,C1NODE44,4,,158.106.94.204:3436,KSh@rm@8736,KS,KS8736,2024-11-22,,Active
+44,dig\\kdhawan,Diamond Insurance,Karan Dhawan,2896597561,kdhawan@dig.insure,C1Node45,4,,158.106.94.204:3437,KDh@w@n7561,KD,KD7561,2024-11-22,,Active
+45,dig\\harsimrat,Diamond Insurance,Harsimrat Singh,4372453262,harsimrat@dig.insure,C1Node47,4,,158.106.94.204:3439,H@rs!mr@t123!,HS,HS3262,2024-11-22,,Active
+46,dig\\Arshdeep,Diamond Insurance,Arshdeep Kaur,4377754788,arshdeep@dig.insure,C1Node48,4,,158.106.94.204:3440,@rshDeEp!234,AR,AR4788,2024-11-22,,Active
+47,dig\\lovepreet,Diamond Insurance,Lovepreet Kaur,6476848880,lovepreet@dig.insure,C1Node49,4,,158.106.94.204:3441,L0vprEeT@880,LO,LO8880,2024-11-22,,Active
+48,dig\\jasmeen,Diamond Insurance,Jasmeen Kaur,6477610279,jasmeen@dig.insure,C1Node50,4,,158.106.94.204:3442,J@smEEn!123,J2,J20279,2024-11-22,,Active
+49,dig\\simran,Diamond Insurance,Simran Kaur,4378810488,simran@dig.insure,C1Node51,4,,158.106.94.204:3443,S!mR@n0488,S8,SS0488,2024-11-22,,Active
+50,dig\\pgill,Diamond Insurance,Pawandeep Gill,6476086965,pgill@dig.insure,C1Node52,4,,158.106.94.204:3444,P@w@ndEEp!,PG,PG6965,2024-11-22,,Active
+51,dig\\harmanjeet,Diamond Insurance,Harmanjeet Kaur,8556025347,harmanjeet@dig.insure,C1Node53,India(4),,158.106.94.204:3445,H@rm@n5347!,H1,H12345,2024-11-22,,Active
+52,dig\\gurmeet,Diamond Insurance,Gurmeet Nirwan,4167357546,gurmeet@dig.insure,C1Node54,4,,158.106.94.204:3446,Gurm@@t!!7546,GN,GN7546,2024-11-22,,Active
+53,dig\\muqadas,Diamond Insurance,Muqadas Shams,4372564789,muqadas@dig.insure,C1Node55,4,,158.106.94.204:3447,Muq@d@s!4789,MQ,MQ4789,2024-11-22,,Active
+54,dig\\lovedeep,Diamond Insurance,Lovedeep Kaur,647862?6562,Lovedeep@dig.insure,C1Node56,4,,158.106.94.204:3448,L0vd@p@123,LK,LK6562,2024-11-22,,Active
+55,dig\\saurav,Diamond Insurance,Saurav Jha,9821170669,saurav@dig.insure,C1Node58,India(4),,158.106.94.204:3450,S@ur@vJh@123,SJ,SJ0669,2024-11-22,,Active
+56,dig\\shruti,Diamond Insurance,Shruti Rawat,6479279019,SHHRUUTIRAWAT@DIG.INSURE,C1Node59,4,,158.106.94.204:3451,S@ruti@123,S2,S21234,2024-11-22,,Active
+57,dig\\kuljit,Diamond Insurance,Kuljit Kaur,6475341565,kuljit@dig.insure,C1Node60,4,,158.106.94.204:3452,K@ul@jit555,KK,KK4491,2024-11-22,,Active
+58,dig\\kuldeep,Diamond Insurance,Kuldeep Kaur Bhullar,3653417693,kuldeep.kb@dig.insure,C1Node61,4,,158.106.94.204:3453,Kul@@deep001,KB,KB7693,2024-11-22,,Active
+59,dig\\urvashi,Diamond Insurance,Urvashi,4372641200,urvashi@dig.insure,C1Node62,4,,158.106.94.204:3454,U@rv@ashi885,UR,UR1200,2024-11-22,,Active
+60,dig\\geetika,Diamond Insurance,GEETIKA GARG,4372421296,geetika@dig.insure,C1Node64,4,,158.106.94.204:3456,G@@tika1296,GG,GG1296,2024-11-22,,Active
+61,dig\\karman,Diamond Insurance,Karmanjot Singh Grewal,4373884684,karman@dig.insure,C1Node65,4,,158.106.94.204:3457,K@r@mAnj0T,KG,KG4684,2024-11-22,,Active
+62,dig\\damanjeet,Diamond Insurance,Damanjeet Chharrhan,6478985463,damanjeet@dig.insure,C1Node66,4,,158.106.94.204:3458,D@m@nJ!!T,DC,DC5463,2024-11-22,,Active
+63,dig\\asim,Diamond Insurance,Asim Malik,4164746262,asim@dig.insure,C1Node67,4,,158.106.94.204:3459,As!mM@l!k123,AM,AM6262,2024-11-22,,Active
+64,dig\\ritika,Diamond Insurance,Ritika Garg,4168390092,ritikagarg@dig.insure,C1Node68,4,,158.106.94.204:3460,R!t!k@G@rg123,RC,RC0092,2024-11-22,,Active
+65,dig\\simran,Diamond Insurance,Simran Kaur,4378810488,simran@dig.insure,C1Node51-New,4,,158.106.94.204:3461,S!mR@n0488,S8,SS0488,2024-11-22,,Active
+66,dig\\jaspreet,Diamond Insurance,Jaspreet Ghatoura,6477825424,jaspreet@dig.insure,C1Node69,4,,158.106.94.204:3462,J@sprEET@123,J1,J15242,2024-11-22,,Active
+67,dig\\navneet,Diamond Insurance,Navneet Kaur Saran,6479678013,navneet.saran@dig.insure,C1Node70,4,,158.106.94.204:3463,N@vnEEt@123,NK,NK8013,2024-11-22,,Active
+68,dig\\rupinder1,Diamond Insurance,Rupinder Singh,6479220415,rupinder.singh@dig.insure,C1Node71,4,,158.106.94.204:3464,Rup!ndEr@321,RS,RS0415,2024-11-22,,Active
+69,dig\\gautam,Diamond Insurance,Gautam Jain,4163153679,gautam.jain@dig.insure,C1Node72,4,,158.106.94.204:3465,G@Ut@M@3679,GJ,GJ3679,2024-11-22,,Active
+70,dig\\priya,Diamond Insurance,Priya Priya,4377992453,Priya@dig.insure,C1Node74,4,,158.106.94.204:3467,P@r@iy@A74,PP,PP2453,2024-11-22,,Active
+71,dig\\ankit,Diamond Insurance,Ankit Ankit,6474021121,ankit@dig.insure,C1Node75,4,,158.106.94.204:3468,Ank!T@12345,AT,AT1121,2024-11-22,,Active
+72,dig\\angad,Diamond Insurance,Angadpratap Singh Boparai,6726735000,angad@dig.insure,C1Node76,4,,158.106.94.204:3469,Ang@d@123,AB,AB5000,2024-11-22,,Active
+73,dig\\navdeep,Diamond Insurance,Navdeep kaur Didwal,3654401651,navdeep@dig.insure,C1Node77,4,,158.106.94.204:3470,N@vDeEp@123,ND,ND1655,2024-11-22,,Active
+74,dig\\amanpreet,Diamond Insurance,Amanpreet Kaur Dhaliwal,4166068484,amanpreet@dig.insure,C1Node78,4,,158.106.94.204:3471,Am@nprEet@123,AP,AP8484,2024-11-22,,Active
+75,dig\\shilpa,Diamond Insurance,Shilpa Bajaj,9041160669,shilpa@dig.insure,C1Node79,India(4),,158.106.94.204:3472,Sh!Lp@123,SB,SB0669,2024-11-22,,Active
+76,dig\\vijeta,Diamond Insurance,Vijeta Gaba,4372346125,vijeta@dig.insure,C1Node80,4,,158.106.94.204:3473,V!jEt@1234,VV,VV6125,2024-11-22,,Active
+77,dig\\gurpreet,Diamond Insurance,Gurpreet Kaur,6478343862,gurpreet@dig.insure,C1Node81,4,,158.106.94.204:3474,G()rpREET@123$,G9,G93862,2024-11-22,,Active
+78,dig\\sahil,Diamond Insurance,Sahil Jindal,6475622453,sahil.jindal@dig.insure,C1Node82,4,,158.106.94.204:3475,S@H!!L@1234$,S0,S01234,2024-11-22,,Active
+79,dig\\ayush,Diamond Insurance,Ayush Bhardwaj,9992148055,Ayush.Bhardwaj@dig.insure,C1Node83,India(4),,158.106.94.204:3476,A@y@ush$24,AY,AB8055,2024-11-22,,Active
+80,dig\\shahroz,Diamond Insurance,SHAHROZ ATHER AWAN,6472228477,shahroz.awan@dig.insure,C1Node85,4,,158.106.94.204:3478,Sh@ah@@roz$1,OZ,OZ8477,2024-11-22,,Active
+81,dig\\harkaran,Diamond Insurance,HARKARAN SINGH,4372202474,harkaran.singh@dig.insure,C1Node86,4,,158.106.94.204:3479,H@ar@karan11$,GH,GH2474,2024-11-22,,Active
+82,dig\\gurjinder,Diamond Insurance,Gurjinder kaur,6476691066,Gurjinder.k@dig.insure,C1Node87,4,,158.106.94.204:3480,Gu@rj@in!$1,GK,GK1066,2024-11-22,,Active
+83,dig\\Davinder,Diamond Insurance,Davinder Singh,9780077020,Davinder.Singh@dig.insure,C1Node88,India(4),,158.106.94.204:3481,Da@vin@der$s1,DA,DA7020,2024-11-22,,Active
+84,dig\\Vardeep,Diamond Insurance,Vardeep Singh,9814816691,vardeep.singh@dig.insure,C1Node89,India(4),,158.106.94.204:3482,Var@@deep#21,VA,VA6691,2024-11-22,,Active
+85,dig\\neha,Diamond Insurance,Neha Sharma,6473086603,neha.sharma@dig.insure,C1Node90,4,,158.106.94.204:3483,N@eha2Sh@rm@2,NE,NE6603,2024-11-22,,Active
+86,dig\\Komalpreet,Diamond Insurance,Komalpreet Kaur,5145607539,komalpreet@dig.insure,C1Node91,4,,158.106.94.204:3484,K@m@l@K@ur@!!,Z2,Z27539,2024-11-22,,Active
+87,dig\\ravinder,Diamond Insurance,Ravinder Singh Brar,4372495775,ravinder.brar@dig.insure,C1Node93,4,,158.106.94.204:3486,R@avinder1!@$,Z4,Z45775,2024-11-22,,Active
+88,dig\\naveed,Diamond Insurance,Naveed Shahzad,4168446848,naveed.shahzad@dig.insure,C1Node94,4,,158.106.94.204:3487,Sh@HZ@d!23,Z5,Z56666,2024-11-22,,Active
+89,dig\\manpreet1,Diamond Insurance,Manpreet Dhindsa,4165001818,mdhindsa@dig.insure,C1Node96,4,,158.106.94.204:3489,Mdhinds@133$,Z6,Z61818,2024-11-22,,Active
+90,dig\\Mohammad1,Diamond Insurance,Mohammad Saud Usmani,6472027452,Susmani@dig.insure,C1Node98,4,,158.106.94.204:3491,M0h@MM@d@123,Z8,Z87452,2024-11-22,,Active
+91,dig\\sahil1,Diamond Insurance,Sahil Sharma,4372671413,sahil.sharma@dig.insure,C1Node99,4,,158.106.94.204:3492,Ssh@rM@!@123,Z9,Z91413,2024-11-22,,Active
+92,dig\\amitesh,Diamond Insurance,Amitesh Singh,3657779950,amitesh@dig.insure,C1Node100,4,,158.106.94.204:3493,Am!tEsh@123,Z0,Z09950,2024-11-22,,Active
+93,dig\\gurmeet1,Diamond Insurance,Gurmeet Singh,4379976241,gurmeet.singh@dig.insure,C1Node101,4,,158.106.94.204:3494,GUrm@@t@123!!,Y1,Y16241,2024-11-22,,Active
+94,dig\\sirat,Diamond Insurance,Sirat Kaur Dhillon,6479697614,sirat.dhillon@dig.insure,C1Node102,4,,158.106.94.204:3495,S!!R@t@@!!23,Y2,Y27614,2024-11-22,,Active
+95,dig\\manisha,Diamond Insurance,Manisha,6478776959,manisha@dig.insure,C1Node103,4,,158.106.94.204:3496,M@n!SH@!!23,Y3,Y36959,2024-11-22,,Active
+96,dig\\mamoon,Diamond Insurance,Mamoon Zaman,4169969137,mamoon.zaman@dig.insure,C1Node104,4,,158.106.94.204:3497,M@m00n@123!,Y4,Y49137,2024-11-22,,Active
+97,dig\\kulvir,Diamond Insurance,KULVIR KAUR PANDHER,6475019995,kulvir@dig.insure,C1Node105,4,,158.106.94.204:3498,KP@ndhER@123$,Y5,Y59995,2024-11-22,,Active
+98,dig\\irvinder,Diamond Insurance,Irvinder Kaur,2268997709,irvinder@dig.insure,C1Node106,4,,158.106.94.204:3499,IrV!ndEr@123$,Y6,Y67709,2024-11-22,,Active
+99,dig\\aditya,Diamond Insurance,Aditya Goria,4379740102,aditya.goria@dig.insure,C1Node107,4,,158.106.94.204:4500,ad!TY@@321$,Y7,Y70102,2024-11-22,,Active
+100,dig\\karandeep,Diamond Insurance,Karandeep Singh,2899685254,karandeep@dig.insure,C1Node108,4,,158.106.94.204:4501,k@R@ndEep!23,Y8,Y85254,2024-11-22,,Active
+101,dig\\jsingh,Diamond Insurance,Jagdev Singh Tatlay,7806002929,jsingh@dig.insure,C1node21,5,,158.106.94.204:3414,JSin@4421,JS,JS4421,2024-11-22,,Active
+102,dig\\jassingh,Diamond Insurance,Jaspreet Singh,7807828335,jaspreetsingh@dig.insure,C1node29,5,,158.106.94.204:3421,J@sspr$$t!,JAS,JS3421,2024-11-22,,Active
+103,dig\\hrai,Diamond Insurance,Harpreet Rai,7808630165,hrai@dig.insure,C1node22,5,,158.106.94.204:3415,H@rp3392,HR,HR3392,2024-11-22,,Active
+104,dig\\rmalhi,Diamond Insurance,Ramanpreet Kaur Malhi,7809522794,rmalhi@dig.insure,C1node24,5,,158.106.94.204:3417,Rm@lh!321,RM,RM2794,2024-11-22,,Active
+105,dig\\awas,Diamond Insurance,Awas Omar Dhiblawe,7808624985,awas@dig.insure,C1Node38,5,,158.106.94.204:3430,Aw@s@012,AO,AO4985,2024-11-22,,Active
+106,dig\\ssharma,Diamond Insurance,Sukriti Sharma,7807075087,ssharma@dig.insure,C1Node38,5,,158.106.94.204:3430,Ssh@rm@123,SH,SH5087,2024-11-22,,Active
+107,dig\\rkaur,Diamond Insurance,Rashmeen Kaur,8258892868,rkaur@dig.insure,C1NODE31,5,,158.106.94.204:3423,R@shmEEn123$,R2,RR2868,2024-11-22,,Active
+108,dig\\manpreet,Diamond Insurance,Manpreet kaur Sidhu,7805209000,manpreet.sidhu@dig.insure,C1NODE27,5,,158.106.94.204:3419,M@npr!!t@123,M5,MM0900,2024-11-22,,Active
+109,dig\\bsidhu,Diamond Insurance,Brahamjot Kaur Sidhu,7802365684,bsidhu@dig.insure,C1Node46,5,,158.106.94.204:3438,B@S!dhu5684$,BS,BS5684,2024-11-22,,Active
+110,dig\\sanjeev,Diamond Insurance,Sanjeev Joshi,7809656744,Sanjeev@dig.insure,C1Node63,5,,158.106.94.204:3455,S@an@jeev559,SA,SA6744,2024-11-22,,Active
+111,dig\\simarjeet,Diamond Insurance,Simarjeet Kaur,7806557892,Simarjeet.K@dig.insure,C1Node73,5,,158.106.94.204:3466,Sim@rjEEt!@#,SK,SK7892,2024-11-22,,Active
+112,dig\\shubrai,Diamond Insurance,Shubkaran Rai,7809941800,shubkaran@dig.insure,C1node84,5,,158.106.94.204:3477,Sh@ub@karan$22,AI,AI1800,2024-11-22,,Active
+113,dig\\sandeep,Diamond Insurance,Sandeep Kaur Boparai,4034302929,sandeep.boparai@dig.insure,C1Node95,5,,158.106.94.204:3488,B0p@r@1!23,Z1,Z11800,2024-11-22,,Active
+114,dig\\khushwinder,Diamond Insurance,Khushwinder Singh,5875660103,khushwinder@dig.insure,C1Node97,5,,158.106.94.204:3490,KHUSHw!nder@123,Z7,Z70103,2024-11-22,,Active
+115,dig\\GBASI ,Diamond Insurance,Gurvinder Basi,6137934156,gbasi@dig.insure,C1node11,9,,158.106.94.204:3404,Gb@si144$,G2,G2329,2024-11-22,,Active
+116,dig\\Hkim,Diamond Insurance,Hyunggwon Kim,6138642089,hkim@dig.insure,C1node12,9,,158.106.94.204:3405,H@k1m332$,HK,HK1331,2024-11-22,,Active
+117,dig\\Eanbara,Diamond Insurance,Elie Anbara,8199234100,eanbara@dig.insure,C1node14,9,,158.106.94.204:3407,en12345EN,EA,EA5542,2024-11-22,,Active
+118,dig\\Rbasi,Diamond Insurance,Ravinder Basi,6132189556,rbasi@dig.insure,C1node18,9,,158.106.94.204:3411,R@Ba$i12#,RB,RB3325,2024-11-22,,Active
+119,dig\\SRiar,Diamond Insurance,Supreet Riar,6137951040,sriar@dig.insure,C1node13,9,,158.106.94.204:3406,Supr@@t144,SR,SR0144,2024-11-22,,Active
+120,dig\\ditiya,Diamond Insurance,Ditiya Verma,8199300505,ditiya@dig.insure,C1Node57,9,,158.106.94.204:3449,D!t!y@0505,DI,DI0505,2024-11-22,,Active
+121,dig\\Amandeep,Diamond Insurance,Amandeep Singh,3439982420,Amandeep@dig.insure,C1Node92,9,,158.106.94.204:3485,Aman@dEep!23,Z3,Z32420,2024-11-22,,Active
+,A P,Haulage NA,Harpreet,,ap@haulagenorthamerica.com,,,101,,,,,2024-11-22,,Active
+,Aman Minhas,Haulage NA,Aman Minhas,,aman@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,Balcan - Haulage North America,Haulage NA,,,balcan@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,Customer Service HNA,Haulage NA,,,millcsr@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,Dispatch Haulage,Haulage NA,Rajdeep,,dispatch@haulagenorthamerica.com,,,102,,,,,2024-11-22,,Active
+,Domtar,Haulage NA,Domtar,,Domtar@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,donotreply,Haulage NA,Kavnoor,,donotreply@haulagenorthamerica.com,,,103,,,,,2024-11-22,,Active
+,fuel,Haulage NA,,,fuel@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,Harry Minhas,Haulage NA,Harry Minhas,,harry@haulagenorthamerica.com,,,124,,,,,2024-11-22,,Active
+,HNA - Accounting,Haulage NA,,,accounting@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,Ice River Springs,Haulage NA,,,iceriversprings@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,Kevin Becker,Haulage NA,Kevin Becker,,kbecker@haulagenorthamerica.com,,,122,,,,,2024-11-22,,Active
+,Mandy,Haulage NA,Mandy,,mandy@haulagenorthamerica.com,,,126,,,,,2024-11-22,,Active
+,Matt Peterson,Haulage NA,Matt Peterson,,matt@haulagenorthamerica.com,,,127,,,,,2024-11-22,,Active
+,mckinley@haulagenorthamerica.com,Haulage NA,,,mckinley@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,Nirav Patel,Haulage NA,Nirav Patel,,Nirav@haulagenorthamerica.com,,,125,,,,,2024-11-22,,Active
+,Resolute - Haulage,Haulage NA,Lovejeet Singh,,resolute@haulagenorthamerica.com,,,111,,,,,2024-11-22,,Active
+,Ritika,Haulage NA,Ritika,,ritika@haulagenorthamerica.com,,,123,,,,,2024-11-22,,Active
+,Roseburg,Haulage NA,Roseburg,,Roseburg@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,safety adviser,Haulage NA,Gagandeep,,safetyadviser@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,Safety HNA,Haulage NA,,,safety@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,Services - Haulage North America,Haulage NA,,,service@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,Support - HNA,Haulage NA,,,support@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,SUSTANA,Haulage NA,SUSTANA,,SUSTANA@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,Tracing HNA,Haulage NA,,,tracing@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,Westrock,Haulage NA,Westrock,,westrock@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,whitebirch@haulagenorthamerica.com,Haulage NA,,,whitebirch@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,accounting@rendexlogistics.com,Haulage NA,,,accounting@rendexlogistics.com,,,,,,,,2024-11-22,,Active
+,dispatch@rendexlogistics.com,Haulage NA,,,dispatch@rendexlogistics.com,,,,,,,,2024-11-22,,Active
+,safety@rendexlogistics.com,Haulage NA,,,safety@rendexlogistics.com,,,,,,,,2024-11-22,,Active
+,Dispatch - Roadway Transhaul,Haulage NA,,,dispatch@roadwaytranshaul.com,,,,,,,,2024-11-22,,Active
+,Dispatch - Lion Force Logistics,Haulage NA,,,dispatch@lionforcelogistics.com,,,,,,,,2024-11-22,,Active
+,Dispatch - Roadtrain Xpress Inc,Haulage NA,,,dispatch@roadtrainxpress.com,,,,,,,,2024-11-22,,Active
+,Dispatch - HNA Pharma,Haulage NA,,,dispatch@hnapharmalogistics.com,,,,,,,,2024-11-22,,Active
+,Dispatch - Orangevilletc,Haulage NA,,,dispatch@orangevilletc.com,,,,,,,,2024-11-22,,Active
+,HNAGroup.ca,Haulage NA,,,Referencechecks@hnagroup.ca,,,,,,,,2024-11-22,,Active
+,Rockwool,Haulage NA,,,Rockwool@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,DUO,Haulage NA,,,duo1@haulagenorthamerica.com,,,,,,,,2024-11-22,,Active
+,Dispatch - RoadwayXpress.com,Haulage NA,,,dispatch@roadwayxpress.com,,,,,,,,2024-11-22,,Active
+,Mukesh,Gracious Hardwood,Mukesh,6478913438,graciousmukesh@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Ali,Gracious Hardwood,Ali,2893940147,graciousaliali@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Jasbir,Gracious Hardwood,Jasbir,4388558066,graciousjasbir@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Ajay,Gracious Hardwood,Ajay,4372367062,graciousAjay@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Raju,Gracious Hardwood,Raju,4377990347,graciousrajuraju@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Harvinder,Gracious Hardwood,Harvinder,6476499528,graciousharvinder@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Satwinder,Gracious Hardwood,Satwinder,6475632071,gracioussatwinder5@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Swaran Singh,Gracious Hardwood,Swaran Singh,4376609062,GraciousSwaran@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Balraj Singh,Gracious Hardwood,Balraj Singh,9057812605,graciousbalraj@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Bhupinder,Gracious Hardwood,Bhupinder,6478641916,GraciousBhupinder@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Dildeep Singh,Gracious Hardwood,Dildeep Singh,4372492075,graciousdildeep@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Sukhraj,Gracious Hardwood,Sukhraj,6478680068,GraciousSukhraj@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Sukhwinder,Gracious Hardwood,Sukhwinder,6475400176,GraciousSukhwinder@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Hasman,Gracious Hardwood,Hasman,2049510545,GraciousHasman@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Ravinder Singh,Gracious Hardwood,Ravinder Singh,4165640190,Graciousravinder@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Tejpal,Gracious Hardwood,Tejpal,6475620736,gracioustejpal@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Prabhdeep Singh,Gracious Hardwood,Prabhdeep Singh,4379881003,GraciousPrabhdeep@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Sunny,Gracious Hardwood,Sunny,5192157736,gracioussunnykumar@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Kewal,Gracious Hardwood,Kewal,4379996114,graciouskewal@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Narinder SIngh,Gracious Hardwood,Narinder SIngh,,graciousnarinder@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,prabhpreet singh,Gracious Hardwood,prabhpreet singh,,graciousprabhpreet@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Mohammad,Gracious Hardwood,Mohammad,,GraciousMohammad@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Samriti,Gracious Hardwood,Samriti,4165099238,samritigracious@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Ankur,Gracious Hardwood,Ankur,4372291891,graciousankur@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Parth Patel,Gracious Hardwood,Parth Patel,5483335717,graciousparth@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Ajit,Gracious Hardwood,Ajit,6476803869,graciousajit@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Sanjeev,Gracious Hardwood,Sanjeev,2896235088,gracioussanjeev@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Vinay Gogna,Gracious Hardwood,Vinay Gogna,6478972742,graciousvinay@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Kruti,Gracious Hardwood,Kruti,6478032206,graciouskruti@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Ravi,Gracious Hardwood,Ravi,4378187512,graciousravi@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Naresh Kumar,Gracious Hardwood,Naresh Kumar,4372134530,graciousnaresh@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Amit Kundal,Gracious Hardwood,Amit Kundal,6475544872,graciousamitkundal@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Tushar ,Gracious Hardwood,Tushar ,4168340092,gracioustushar@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Raj Singh ,Gracious Hardwood,Raj Singh ,6476207245,graciousrajsingh@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Aryan,Gracious Hardwood,Aryan,,graciousaryan@gmail.com,,Brampton,,,,,,2024-11-22,,Active
+,Harpreet Singh,MetroX,Harpreet Singh,,safety@metrox.ca,,,101,,,,,2024-11-22,,Active
+,Virender Singh,MetroX,Virender Singh,,dispatch@metrox.ca,,,102,,,,,2024-11-22,,Active
+,Abhishek Garg,MetroX,Abhishek Garg,,acounting@metrox.ca,,,103,,,,,2024-11-22,,Active
+,Allan Agnew,MetroX,Allan Agnew,,allan@metrox.ca,,,104,,,,,2024-11-22,,Active
+,Future Dispatcher,MetroX,Future Dispatcher,,,,,105,,,,,2024-11-22,,Active
+,Baldeep Grewal,MetroX,Baldeep Grewal,,dispatch@metrox.ca,,,106,,,,,2024-11-22,,Active
+,Rohit,MetroX,Rohit,,dispatch@metrox.ca,,,107,,,,,2024-11-22,,Active
+,Bhavdeep Grewal,MetroX,Bhavdeep Grewal,,bhavgrewal@metrox.ca,,,108,,,,,2024-11-22,,Active
+,Sukhvir Grewal,MetroX,Sukhvir Grewal,,accounting@metrox.ca,,,,,,,,2024-11-22,,Active
+,Sandeep Grewal,MetroX,Sandeep Grewal,,sunnygrewal@metrox.ca,,,,,,,,2024-11-22,,Active
+,TBD,MetroX,TBD,,logistics@metrox.ca,,,111,,,,,2024-11-22,,Active
+,Shop,MetroX,Shop,,shop@metrox.ca,,,112,,,,,2024-11-22,,Active
+,Harry,MetroX,Harry,,,,India,109,,,,,2024-11-22,,Active
+,Gurpreet,MetroX,Gurpreet,,,,India,110,,,,,2024-11-22,,Active
+,Arun,MetroX,Arun,,,,India,,,,,,2024-11-22,,Active
+,Jagdev,MetroX,Jagdev,,,,India,,,,,,2024-11-22,,Active
+,Jamie Fraresso,MetroX,Jamie Fraresso,,JFRARESSO@METROX.CA ,,,,,,,,2024-11-22,,Active
+,Parminder Singh,MetroX,Parminder Singh,,,,,,,,,,2024-11-22,,Active
+,Gagan,MetroX,Gagan,,,,,,,,,,2024-11-22,,Active
+,Gabriel,A-Spec,Gabriel,,Gabriel@aspecprecision.com,,Mississauga,,,mail_Pass- ^Q1D+}7yq4$3,,,2024-11-22,,Active
+,Valdir,A-Spec,Valdir,,valdir@aspecprecision.com,,Mississauga,,,mail_Pass- %jwH94v4[c?8,,,2024-11-22,,Active
+,accounts-aspec,A-Spec,,,accounts@aspecprecision.com,,Mississauga,,,mail_Pass- a7!.HK0DL4Zf,,,2024-11-22,,Active
+,info-aspec,A-Spec,,,info@aspecprecision.com,,Mississauga,,,mail_Pass- 3O+(YnG29Ol4,,,2024-11-22,,Active
+,Manjit S Klotia,A-Spec,Manjit S Klotia,,mklotia@aspecprecision.com,,Mississauga,,,mail_Pass- 34-(F7tCLo6.,,,2024-11-22,,Active
+,officelic1-aspec,A-Spec,,,officelic1@aspecprecision.com,,Mississauga,,,mail_Pass- {w61:y]06=HG,,,2024-11-22,,Active

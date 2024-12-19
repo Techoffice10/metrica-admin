@@ -1,0 +1,117 @@
+To add sample records to your User table (or any model in Django), you can follow these steps:
+
+Option 1: Using the Django Admin Panel
+If you already have the Django admin set up, you can add records directly from the admin interface.
+
+Create a superuser (if you haven't already) using this command:
+
+bash
+Copy code
+python manage.py createsuperuser
+You'll be prompted to enter a username, email, and password.
+
+Access the Admin Interface: Once the superuser is created, run the server again:
+
+bash
+Copy code
+python manage.py runserver
+Then, go to http://127.0.0.1:8000/admin in your browser.
+
+Login to the Admin Panel: Log in with the superuser credentials you created.
+
+Add Users: In the admin panel, go to the "Users" section (or the relevant section for your User model) and click "Add user" to add a new user manually. Fill in the details, including any custom fields such as full_name, phone_no, etc.
+
+Option 2: Using the Django Shell
+You can add sample records directly from the Django shell.
+
+Open Django Shell:
+
+bash
+Copy code
+python manage.py shell
+Create a New User Record:
+
+Inside the shell, you can create a user like this:
+
+python
+Copy code
+from users.models import User
+
+# Create a new user instance
+user = User.objects.create(
+    username="sampleuser",
+    full_name="Sample User",
+    email="sampleuser@example.com",
+    phone_no="1234567890",
+    company="Sample Company",
+    service_type="Sample Service",
+    location="Sample Location",
+    status="Active",
+)
+
+# Save the user instance to the database
+user.save()
+
+print("Sample user created successfully!")
+Exit the Shell:
+
+After running the above code, you can exit the shell with:
+
+python
+Copy code
+exit()
+Option 3: Using Fixtures (JSON or YAML)
+If you want to add multiple records in bulk, you can use Django fixtures.
+
+Create a JSON Fixture:
+
+Create a file named users_fixture.json in your project directory (or in a folder like fixtures/) with the following content (modify the fields as needed):
+
+json
+Copy code
+[
+  {
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+      "username": "user1",
+      "full_name": "User One",
+      "email": "user1@example.com",
+      "phone_no": "1234567890",
+      "company": "Company One",
+      "service_type": "Service One",
+      "location": "Location One",
+      "status": "Active"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 2,
+    "fields": {
+      "username": "user2",
+      "full_name": "User Two",
+      "email": "user2@example.com",
+      "phone_no": "9876543210",
+      "company": "Company Two",
+      "service_type": "Service Two",
+      "location": "Location Two",
+      "status": "Deactivated"
+    }
+  }
+]
+Load the Fixture:
+
+Use the following command to load the fixture into your database:
+
+bash
+Copy code
+python manage.py loaddata users_fixture.json
+This will insert multiple records into your User table.
+
+Option 4: Using Django Admin ModelForm (Custom Code)
+If you need to create a custom form for adding users from your frontend, you can define a ModelForm in your forms.py and use it in a view. Here's how you can do it:
+
+Create a form in users/forms.py (you already have one, so you might not need to do this again).
+Define a view where this form is used to add new users.
+Render the form in a template where users can enter data.
+After running any of these steps, you should see the sample users added to your User table.
